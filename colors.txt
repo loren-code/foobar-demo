@@ -9,3 +9,4 @@ black
 gold
 aqua
 purple
+silver
