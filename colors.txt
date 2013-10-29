@@ -7,3 +7,4 @@ magenta
 white
 black
 gold
+purple
